@@ -7,6 +7,6 @@
     "pricing" : [
       {"date" : "20200101", "security" : "IBM", "price" : 100},
       {"date" : "20200101", "security" : "IBM", "price" : 100}
-    ],
+    ]
   }
 }
