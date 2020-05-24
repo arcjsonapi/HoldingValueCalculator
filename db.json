@@ -1,18 +1,10 @@
 {
-  "api" : [
-    {
-    "id" : "holding",
-    "values" : [
-        {"date" : "20200101", "security" : "IBM", "quantity" : 10000, "portfolio" : "PORT1" },
-        {"date" : "20200102", "security" : "IBM", "quantity" : 10000, "portfolio" : "PORT1" }
-      ]
-    },
-    {
-    "id" : "pricing",
-    "values" : [
-        {"date" : "20200101", "security" : "IBM", "price" : 100},
-        {"date" : "20200101", "security" : "IBM", "price" : 100}
-      ]
-    }
+  "holdingApi" : [
+    {"date" : "20200101", "security" : "IBM", "quantity" : 10000, "portfolio" : "PORT1" },
+    {"date" : "20200102", "security" : "IBM", "quantity" : 10000, "portfolio" : "PORT1" }
+  ],
+  "pricingApi" : [
+    {"date" : "20200101", "security" : "IBM", "price" : 100},
+    {"date" : "20200101", "security" : "IBM", "price" : 100}
   ]
 }
