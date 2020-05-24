@@ -1,7 +1,7 @@
 {
   "api" : {
     "holding" : {
-      [
+      "values" : [
         {"date" : "20200101", "security" : "IBM", "quantity" : 10000, "portfolio" : "PORT1" },
         {"date" : "20200102", "security" : "IBM", "quantity" : 10000, "portfolio" : "PORT1" }
       ]
