@@ -1,10 +1,12 @@
-[
-  {
-    "id" : 1,
-    "value" : "Test"
-  },
-  {
-    "id" : 2,
-    "value" : "Test 2"
-  }
-]
+{
+  "api" : [
+    { 
+      "id" : 1,
+      "value" : "Test"
+    },
+    {
+      "id" : 2,
+      "value" : "Test 2"
+    }
+  ]
+}
