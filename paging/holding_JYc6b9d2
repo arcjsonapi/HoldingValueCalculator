@@ -2,7 +2,7 @@
   "totalRecords" : 1128, 
   "recordsPerPage" : 200,
   "page" : 3,
-  "nextPage" : "https://raw.githubusercontent.com/arcjsonapi/HoldingValueCalculator/master/paging/holding_kelA8bBf.json",
+  "nextPage" : "https://raw.githubusercontent.com/arcjsonapi/HoldingValueCalculator/master/paging/holding_kelA8bBf",
   "data" : [
     {"date" : "20190505", "security" : "Apples and Oranges", "quantity" : 529, "portfolio" : "Technology"},
     {"date" : "20190505", "security" : "ABC Corporation", "quantity" : 143, "portfolio" : "Technology"},
