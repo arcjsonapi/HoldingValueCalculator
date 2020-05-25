@@ -2,7 +2,7 @@
   "totalRecords" : 1128, 
   "recordsPerPage" : 200,
   "page" : 5,
-  "nextPage" : "https://raw.githubusercontent.com/arcjsonapi/HoldingValueCalculator/master/paging/holding_end.json",
+  "nextPage" : "https://raw.githubusercontent.com/arcjsonapi/HoldingValueCalculator/master/paging/holding_end",
   "data" : [
     {"date" : "20190912", "security" : "XYZ Private Limited", "quantity" : 869, "portfolio" : "Growth"},
     {"date" : "20190912", "security" : "Arcesium LLC", "quantity" : 333, "portfolio" : "Balanced"},
